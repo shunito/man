@@ -1,3 +1,12 @@
 man
 ===
-can someone fork this and get an "opposite" one of these made?
+```javascript
+void function( unLuckyGuy ){
+  function birth( man ){
+    return man.get('Riib').toFlesh();
+  }
+  
+  var woman = birth( unLuckyGuy );
+  
+}(you);
+```
